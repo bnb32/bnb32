@@ -15,6 +15,10 @@
     <a href="https://kaggle.com/brandonbenton/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 </p>
 
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bnb32&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
 <!--
 **bnb32/bnb32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
