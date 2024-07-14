@@ -8,7 +8,7 @@
 
 <p align='center'>
     <a href="https://bnb32.github.io/docs/cv.pdf"><img src="https://img.shields.io/badge/-Resume-purple?style=for-the-badge&logo=readme"></a>
-    <a href="https://scholar.google.com/citations?user=EyBB7bYAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
+    <a href="https://scholar.google.com/citations?user=7IWMLJoAAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/brandonnbenton/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://pypi.org/user/bnb32/"><img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white"></a>
     <a href="https://bitbucket.org/bnb32/"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
